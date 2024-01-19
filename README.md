@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a Backend Developer based in Iran. Here you'll
 
 ## Projects
 
-- Briefly describe some of the key projects you've worked on.
 - RezaBaftAutomation
 - PasargadEnergy
 
